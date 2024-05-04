@@ -114,9 +114,7 @@ created: 2024-04-03T00:00:00.000Z
 
 ### - 阿里云盘：[阿里云盘官网](https://www.aliyundrive.com/)
 
-### - **专注清单应用**
-
-- 访问 [专注清单官网](https://www.focustodo.cn/?lang=zh_CN) 下载并安装。
+https://desktop.github.com/
 
 ### - **代理软件**
 
